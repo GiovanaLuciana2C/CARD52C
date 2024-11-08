@@ -1,11 +1,11 @@
 :root {
     --text-color: #DBE4EF;
     --card-front-color: #c73abb;
-    --card-back-color: #3f0c46;
+    --card-back-color: #65107093;
 }
 
 body {
-    background: #d6328c;
+    background: url('img/gatinho.jpeg');
     font-family: Bai Jamjuree;
 }
 
